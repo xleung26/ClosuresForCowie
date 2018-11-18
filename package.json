@@ -1,0 +1,23 @@
+{
+  "name": "closuresforcowie",
+  "version": "1.0.0",
+  "description": "Some Closure Practice Problems For My Buddy Who Is Learning JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkbelow/ClosuresForCowie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkbelow/ClosuresForCowie/issues"
+  },
+  "homepage": "https://github.com/nkbelow/ClosuresForCowie#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
